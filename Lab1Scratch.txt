@@ -1,0 +1,54 @@
+48,51,50,48
+
+675,628,662,673
+588,583,585,587
+
+210,555,523,555
+856,855,855,858
+
+179,261,365
+617,612,614,612
+
+Mar 15 23:42:26 raspberrypi kernel: [68871.402560] Iteration 20 pid 2457 nvcsw= 20 nivcsw= 0 core= 1
+Mar 15 23:42:26 raspberrypi kernel: [68871.402567] Iteration 20 pid 2456 nvcsw= 20 nivcsw= 0 core= 0
+Mar 15 23:42:26 raspberrypi kernel: [68871.402574] Iteration 20 pid 2458 nvcsw= 20 nivcsw= 1 core= 2
+Mar 15 23:42:26 raspberrypi kernel: [68871.402582] Iteration 20 pid 2459 nvcsw= 20 nivcsw= 0 core= 3
+Mar 15 23:42:26 raspberrypi kernel: [68871.502559] Iteration 21 pid 2456 nvcsw= 21 nivcsw= 0 core= 0
+Mar 15 23:42:26 raspberrypi kernel: [68871.502566] Iteration 21 pid 2457 nvcsw= 21 nivcsw= 0 core= 1
+Mar 15 23:42:26 raspberrypi kernel: [68871.502572] Iteration 21 pid 2458 nvcsw= 21 nivcsw= 1 core= 2
+Mar 15 23:42:26 raspberrypi kernel: [68871.502580] Iteration 21 pid 2459 nvcsw= 21 nivcsw= 0 core= 3
+Mar 15 23:42:27 raspberrypi kernel: [68871.602566] Iteration 22 pid 2456 nvcsw= 22 nivcsw= 0 core= 0
+Mar 15 23:42:27 raspberrypi kernel: [68871.602574] Iteration 22 pid 2458 nvcsw= 22 nivcsw= 1 core= 2
+Mar 15 23:42:27 raspberrypi kernel: [68871.602582] Iteration 22 pid 2459 nvcsw= 22 nivcsw= 0 core= 3
+Mar 15 23:42:27 raspberrypi kernel: [68871.602590] Iteration 22 pid 2457 nvcsw= 22 nivcsw= 0 core= 1
+
+567,559,566
+560,566,590
+574,572,574
+582,580,582
+
+48,51,50
+56,75,65
+63,66,72
+71,59,58
+
+66,58,57
+58,66,64
+81,74,64
+73,81,79
+
+52,49,53,50
+60,57,60,50
+67,64,71,76
+75,72,68,64
+
+192.168.137.18
+
+.000068
+.000072
+.000078
+
+937,898,885,868,833
+
+884
+
